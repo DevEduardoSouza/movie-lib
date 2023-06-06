@@ -22,6 +22,7 @@
 Acesse o diretório do projeto:
 cd movie-lib
 
+
 Instale as dependências do projeto:
 npm install
 
