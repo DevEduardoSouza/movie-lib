@@ -33,10 +33,12 @@ Abra o seu navegador e acesse http://localhost:3000 para ver o site em funcionam
 
 
 
-Contribuição
+Contribuição 
+<br/>
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
 
 Licença
+<br/>
 Este projeto está licenciado sob a licença MIT.
 
 Sinta-se à vontade para personalizar o README de acordo com as especificações do seu projeto. Adicione seções adicionais, como "Tecnologias utilizadas" ou "Autor", se desejar. Certifique-se de fornecer informações úteis para os usuários que desejam executar e contribuir para o seu projeto.
